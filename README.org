@@ -1,0 +1,4 @@
+#+TITLE: magitian
+#+AUTHOR: oopa
+
+Git by Emacs/Magit
