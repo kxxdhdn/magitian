@@ -1,1 +1,3 @@
 Hello, world!
+
+Now I am testing the diff function with Magit
